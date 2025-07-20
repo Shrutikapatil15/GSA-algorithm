@@ -1,0 +1,48 @@
+<Results>
+  <OverallBest>
+    <BestSolution>x1: -0.947247, x2: 0.224885</BestSolution>
+    <BestFitness>0.94785</BestFitness>
+  </OverallBest>
+  <IterationsTable>
+    <Row iteration="1">
+      <x1>0.375875</x1>
+      <x2>6.60731</x2>
+      <Fitness>43.7978</Fitness>
+    </Row>
+    <Row iteration="2">
+      <x1>-1.69394</x1>
+      <x2>4.7315</x2>
+      <Fitness>25.2565</Fitness>
+    </Row>
+    <Row iteration="3">
+      <x1>0.56098</x1>
+      <x2>1.98633</x2>
+      <Fitness>4.26021</Fitness>
+    </Row>
+    <Row iteration="4">
+      <x1>-0.947247</x1>
+      <x2>0.224885</x2>
+      <Fitness>0.94785</Fitness>
+    </Row>
+    <Row iteration="5">
+      <x1>-2.06063</x1>
+      <x2>2.00112</x2>
+      <Fitness>8.25068</Fitness>
+    </Row>
+    <Row iteration="6">
+      <x1>3.07937</x1>
+      <x2>-6.77196</x2>
+      <Fitness>55.342</Fitness>
+    </Row>
+    <Row iteration="7">
+      <x1>-9.19079</x1>
+      <x2>2.04833</x2>
+      <Fitness>88.6662</Fitness>
+    </Row>
+    <Row iteration="8">
+      <x1>-9.7553</x1>
+      <x2>-20.3019</x2>
+      <Fitness>507.334</Fitness>
+    </Row>
+  </IterationsTable>
+</Results>

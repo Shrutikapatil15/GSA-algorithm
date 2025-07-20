@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<Results>
+  <OverallBest>
+    <BestSolution>x1: 0.0, x2: 27.065469029465937, x3: 83.21500657691101, x4: 64.0142739172577</BestSolution>
+    <BestFitness>260031.15261585457</BestFitness>
+  </OverallBest>
+  <IterationsTable>
+    <Header>
+      <Column>x1</Column>
+      <Column>x2</Column>
+      <Column>x3</Column>
+      <Column>x4</Column>
+      <Column>Fitness</Column>
+    </Header>
+    <Row iteration="1">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="2">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="3">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="4">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="5">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="6">
+      <x1>25.0</x1>
+      <x2>25.0</x2>
+      <x3>25.0</x3>
+      <x4>25.0</x4>
+      <Fitness>10000000000.0</Fitness>
+    </Row>
+    <Row iteration="7">
+      <x1>11.783341510270526</x1>
+      <x2>24.14507681395314</x2>
+      <x3>63.18096938829714</x3>
+      <x4>119.8508272638802</x4>
+      <Fitness>453646.945719862</Fitness>
+    </Row>
+    <Row iteration="8">
+      <x1>4.782084291194553</x1>
+      <x2>24.51119840595306</x2>
+      <x3>81.43423105949839</x3>
+      <x4>159.52396552239895</x4>
+      <Fitness>376187.1159569606</Fitness>
+    </Row>
+    <Row iteration="9">
+      <x1>3.2257615489258384</x1>
+      <x2>25.98198235506344</x2>
+      <x3>70.67211895571955</x3>
+      <x4>84.08087929966236</x4>
+      <Fitness>260031.15261585457</Fitness>
+    </Row>
+    <Row iteration="10">
+      <x1>0.0</x1>
+      <x2>27.065469029465937</x2>
+      <x3>83.21500657691101</x3>
+      <x4>64.0142739172577</x4>
+      <Fitness>260031.15261585457</Fitness>
+    </Row>
+  </IterationsTable>
+</Results>
